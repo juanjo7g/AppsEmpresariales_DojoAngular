@@ -1,3 +1,7 @@
+export class Hero {
+  id: number;
+  name: string;
+}
 
 /*
 Copyright 2016 Google Inc. All Rights Reserved.
